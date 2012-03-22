@@ -32,7 +32,7 @@ class toeButtonGroup: public QButtonGroup
         else if(button->text() == "toe 3")
             box->setText("This little piggy had roast beef.");
         else if(button->text() == "toe 4")
-            box->setText("This little piggy had none.");
+            box->setText("This little piggy had none. Just happens every now and then.");
         else if(button->text() == "toe 5")
             box->setText("This little piggy went wee wee wee all the way home... or did he?");
         else if(button->text() == "toe 6")
